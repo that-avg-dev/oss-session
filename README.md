@@ -14,7 +14,7 @@ Contributing to Open Source Software (OSS) is a fantastic way to learn new skill
 
 ## Your Reward! 🏆
 
-Every student who successfully merges their first Pull Request will receive the exclusive **Awesome OSS Contributor Badge**! 🥇 Add it to your GitHub profile or resume to show off your new skills.
+Every student who successfully merges their first Pull Request will receive an exclusive **Awesome OSS Contributor Badge**! 🥇 Add it to your GitHub profile or resume to showcase your new skills.
 
 ## How to Get Started
 
