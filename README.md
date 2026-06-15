@@ -27,3 +27,6 @@ Every student who successfully merges their first Pull Request will receive the 
 ## PR Checks ✅
 
 We have automated checks that run on every Pull Request. These checks are common in real-world OSS projects to ensure code quality. Our checks simply verify that your Markdown files are formatted correctly. Don't worry if they fail at first—you can always update your PR to fix them!
+
+## oss people 
+Yuva Deekshitha was here too!!
