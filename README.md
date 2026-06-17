@@ -1,6 +1,6 @@
 # OSS Session 🚀
 
-Welcome to **OSS Session**, a safe and welcoming space for students to make their first Open Source contributions!
+Welcome to **OSS Session**, a safe and welcoming space for students to make their first open-source contributions!
 
 ## Why Contribute? 🌟
 
